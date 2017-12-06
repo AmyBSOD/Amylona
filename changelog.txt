@@ -1,3 +1,6 @@
+1.73-specific:
+- Re-inserted the old method of determining how many small medals the player gets for completing a random dungeon. But the new method that awards fixed amounts for high-difficulty dungeons is still there, too.
+
 Third commit:
 - Healing and Meditation skills will always train when they should. It is completely arbitrary bullshit that they just wouldn't train when your (irrelevant) constitution/magic stat was lower than the skill value, no other skill is treated like that AFAIK, and if it is, I will fix it for whatever other skills afflicted by this disease, too!
 
