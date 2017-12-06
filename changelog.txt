@@ -1,3 +1,6 @@
+Third commit:
+- Healing and Meditation skills will always train when they should. It is completely arbitrary bullshit that they just wouldn't train when your (irrelevant) constitution/magic stat was lower than the skill value, no other skill is treated like that AFAIK, and if it is, I will fix it for whatever other skills afflicted by this disease, too!
+
 Second commit:
 - Added a periodic chime noise if the player's gauge meter is full. This is far from perfect, but previously there was no indication at all that you had reached your maximum gauge!
 - Low hitpoint warning sound happens when below 50% max HP, since below 25% was way too low. There are things that can kill you in two hits and not everyone is OCD enough to constantly keep a close eye on that not-really-very-obvious-when-it-decreases HP bar! Why can't we simply have a hit point bar *directly underneath our character sprite* just like stethoscoped pets do???
