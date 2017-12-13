@@ -1,3 +1,6 @@
+Fifth commit:
+- Added a (fake) DYWYPI prompt when the character dies.
+
 Fourth commit:
 - Renamed the "godly" string from pseudo-identified items to "ubergodly" to remove the issue where it's easy to mistake them for useless "Good" items.
 - Standard monster AI will perform ranged attacks at a distance of 7 squares. I can't believe that custom AI limitation existed for the regular monster AI too, but apparently it did, so I could just have killed Utima early by keeping 6-7 squares distance, dismissing all the pets, and plugging away with my gun until Utima is dead. I won't have such cheesy tactics in *my* game, thank you very much.
