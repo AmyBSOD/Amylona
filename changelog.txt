@@ -1,3 +1,7 @@
+Sixth commit:
+- The pokeball change was not working correctly and is fixed now.
+- The aggravate monster change was not working correctly and is fixed now.
+
 Fifth commit:
 - Added a (fake) DYWYPI prompt when the character dies.
 
