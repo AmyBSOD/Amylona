@@ -1,3 +1,6 @@
+Seventh commit:
+- Custom AI now allows you to set a percentage proc chance for every action, thanks to a kind modder named Shad3Light whose code I stole shamelessly. Let's hope that Bloodyshade will implement it in the official version of Custom instead of wasting his time "fixing" "translation errors" that are not really errors!
+
 Sixth commit:
 - The pokeball change was not working correctly and is fixed now.
 - The aggravate monster change was not working correctly and is fixed now.
