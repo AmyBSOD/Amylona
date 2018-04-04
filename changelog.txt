@@ -1,3 +1,9 @@
+Eighth commit (version 1.76):
+- Panic and challenge quests can always appear, regardless of the player's fame, and spawn slightly higher-level monsters. Hunting as well as Beauty and the Beast quests are no longer illogically capped at a difficulty of 16 $ (which means monsters of level 80), because that was probably a relic of vanilla Elona times where there are no monsters with base levels higher than that.
+- Hermes blood and AP will give much lower boosts to speed.
+- Zombies can once again drop potions of descent.
+- The player no longer learns the grossly overpowered Shining Wave, Blood Stream and Mana Burst abilities. Shadow Step and Dimension Fishing are more expensive to use. Shadow Step requires 100 Tactics skill to learn. Houzanha mines less tiles per use.
+
 Seventh commit:
 - Custom AI now allows you to set a percentage proc chance for every action, thanks to a kind modder named Shad3Light whose code I stole shamelessly. Let's hope that Bloodyshade will implement it in the official version of Custom instead of wasting his time "fixing" "translation errors" that are not really errors!
 
