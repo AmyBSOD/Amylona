@@ -1,4 +1,5 @@
 Eighth commit (version 1.76):
+- When the player dies, all attributes are damaged, even if the death was in a quest. If you die for real, the amount of attribute damage is much higher. Yes, this attribute damage includes speed, life, mana and luck. This is not a joke and will not be reverted. After all, there should be *some* penalty for death, and we got rid of the very obnoxious "lol ur level 10 sentient weapon has vanished" and "sux2bu ur sages helm just got vaporized trololololololo" bullshit which is IMHO way more annoying than losing a few stat points that you can just grind back up anyway.
 - Panic and challenge quests can always appear, regardless of the player's fame, and spawn slightly higher-level monsters. Hunting as well as Beauty and the Beast quests are no longer illogically capped at a difficulty of 16 $ (which means monsters of level 80), because that was probably a relic of vanilla Elona times where there are no monsters with base levels higher than that.
 - Hermes blood and AP will give much lower boosts to speed.
 - Zombies can once again drop potions of descent.
