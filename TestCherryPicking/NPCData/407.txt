@@ -1,14 +1,15 @@
 npcname_JP.	メイドさん
 npcname_EN.	maidsann
 numflavor_passiveJP.	4
-numflavor_passiveEN.	3
+numflavor_passiveEN.	4
 flavorpassive_JP.0	「%syujin%～」
 flavorpassive_JP.1	%syujin%～
 flavorpassive_JP.2	「用事はありませんか♪」
 flavorpassive_JP.3	メイドの熱い視線を感じる…
-flavorpassive_EN.0	
-flavorpassive_EN.1	"Oh Master, I don't do THOSE sorts of things♪..."
-flavorpassive_EN.2	The maid looks good enough to touch
+flavorpassive_EN.0	"%syujin%~"
+flavorpassive_EN.1	%syujin%~
+flavorpassive_EN.2	"Don't you have any tasks for me? ♪"
+flavorpassive_EN.3	You can feel the maid's passion-fueled gaze...
 numflavor_angeredJP.	2
 numflavor_angeredEN.	2
 flavorangered_JP.0	「おいたが過ぎますよ！」
@@ -24,6 +25,8 @@ flavordeath_EN.1	"%syujin%!"
 numflavor_killJP.	0
 numflavor_killEN.	0
 numflavor_welcomeJP.	2
-numflavor_welcomeEN.	0
+numflavor_welcomeEN.	2
 flavorwelcome_JP.0	「おかえりなさいませ、%syujin%～」
 flavorwelcome_JP.1	「おかえりなさいまし～」
+flavorwelcome_EN.0	"Welcome back, %syujin%~"
+flavorwelcome_EN.1	"Welcome baack~"

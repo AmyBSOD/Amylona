@@ -12,6 +12,8 @@ numflavor_killJP.	1
 numflavor_killEN.	0
 flavorkill_JP.0	「もうイってしまったんですか？」
 numflavor_welcomeJP.	2
-numflavor_welcomeEN.	0
+numflavor_welcomeEN.	2
 flavorwelcome_JP.0	「おかえりなさいませ、%syujin%…」
 flavorwelcome_JP.1	「今宵も楽しんでいってください…」
+flavorwelcome_EN.0	"Welcome back, %syujin%..."
+flavorwelcome_EN.1	"Please enjoy yourselves tonight..."

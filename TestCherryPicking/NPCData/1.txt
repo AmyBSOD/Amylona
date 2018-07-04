@@ -7,7 +7,7 @@ numflavor_angeredEN.	3
 flavorangered_JP.0	「ガード！ガード！」
 flavorangered_JP.1	「襲撃だ！」
 flavorangered_JP.2	「強盗め！」
-flavorangered_EN.0	"Guard! Guard!"
+flavorangered_EN.0	"Guards! Guards!"
 flavorangered_EN.1	"Ambush!"
 flavorangered_EN.2	"You thief!"
 numflavor_deathJP.	2

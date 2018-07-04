@@ -16,7 +16,7 @@ flavorangered_EN.1	"No no!"
 flavorangered_EN.2	"You are evil."
 flavorangered_EN.3	"Pervert!"
 flavorangered_EN.4	"G-g-go away!"
-flavorangered_EN.5	"Why are you teasing me?"
+flavorangered_EN.5	"Why are you hitting me?"
 flavorangered_EN.6	"Adults."
 numflavor_deathJP.	7
 numflavor_deathEN.	7

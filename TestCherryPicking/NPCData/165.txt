@@ -8,9 +8,10 @@ numflavor_deathJP.	1
 numflavor_deathEN.	0
 flavordeath_JP.0	「クゥン…」
 numflavor_killJP.	2
-numflavor_killEN.	0
+numflavor_killEN.	1
 flavorkill_JP.0	「わん！」
 flavorkill_JP.1	「ゥワン！」
+flavorkill_EN.0	*woof*
 numflavor_welcomeJP.	1
 numflavor_welcomeEN.	0
 flavorwelcome_JP.0	「おかえりワン！」

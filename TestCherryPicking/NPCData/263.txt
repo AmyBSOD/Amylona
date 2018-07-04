@@ -11,11 +11,14 @@ flavorpassive_EN.2	You smell Myrrh in the air, but with the faintest hints of ch
 numflavor_angeredJP.	0
 numflavor_angeredEN.	0
 numflavor_deathJP.	1
-numflavor_deathEN.	0
+numflavor_deathEN.	1
 flavordeath_JP.0	「きゃあ！」
+flavordeath_EN.0	"Kyaa!"
 numflavor_killJP.	2
-numflavor_killEN.	0
+numflavor_killEN.	2
 flavorkill_JP.0	「地獄に落ちなさい」
 flavorkill_JP.1	「いいざまね」
+flavorkill_EN.0	"Fall down to hell!"
+flavorkill_EN.1	"Well done, right?"
 numflavor_welcomeJP.	0
 numflavor_welcomeEN.	0

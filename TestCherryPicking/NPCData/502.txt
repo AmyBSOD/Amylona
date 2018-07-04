@@ -1,5 +1,5 @@
 npcname_JP.	ƒ[ƒCƒŒƒ“x‰‡UŒ‚’[––
-npcname_EN.	Xeren satelite unit
+npcname_EN.	Xeren satellite unit
 numflavor_passiveJP.	0
 numflavor_passiveEN.	0
 numflavor_angeredJP.	0

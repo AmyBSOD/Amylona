@@ -3,7 +3,7 @@ npcname_EN.	<Lityou>
 numflavor_passiveJP.	1
 numflavor_passiveEN.	1
 flavorpassive_JP.0	「ガルルル…」
-flavorpassive_EN.0	You hear the near silent footfalls of a cat. A Big cat.
+flavorpassive_EN.0	"Grrrr..."
 numflavor_angeredJP.	2
 numflavor_angeredEN.	2
 flavorangered_JP.0	「ガウッ」

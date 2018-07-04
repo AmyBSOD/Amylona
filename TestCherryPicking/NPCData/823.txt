@@ -1,10 +1,11 @@
 npcname_JP.	面忘の獅子
 npcname_EN.	mad scratcher
 numflavor_passiveJP.	2
-numflavor_passiveEN.	1
+numflavor_passiveEN.	2
 flavorpassive_JP.0	「ガルルル…」
 flavorpassive_JP.1	何かを掻き毟る音が聞こえる。
-flavorpassive_EN.0	You hear the near silent footfalls of a beast.
+flavorpassive_EN.0	"Grrrr..."
+flavorpassive_EN.1	You can hear something making scratching noises.
 numflavor_angeredJP.	2
 numflavor_angeredEN.	2
 flavorangered_JP.0	「ガウッ」

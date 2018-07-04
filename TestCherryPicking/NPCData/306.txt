@@ -1,5 +1,5 @@
 npcname_JP.	《風のルルウィ》
-npcname_EN.	<Luluwy>
+npcname_EN.	<Lulwy>
 numflavor_passiveJP.	0
 numflavor_passiveEN.	0
 numflavor_angeredJP.	0

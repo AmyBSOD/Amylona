@@ -1,5 +1,5 @@
 npcname_JP.	《暴風のルルウィ》
-npcname_EN.	<Devastate Luluwy>
+npcname_EN.	<Devastate Lulwy>
 numflavor_passiveJP.	0
 numflavor_passiveEN.	0
 numflavor_angeredJP.	0

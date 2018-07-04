@@ -1,5 +1,5 @@
 npcname_JP.	è©ïw
-npcname_EN.	prostitue
+npcname_EN.	prostitute
 numflavor_passiveJP.	0
 numflavor_passiveEN.	0
 numflavor_angeredJP.	2

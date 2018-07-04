@@ -1,5 +1,5 @@
 npcname_JP.	‹S–Ê‚Ì”EÒw—•‰ex
-npcname_EN.	<Aikage> the sinobi mask
+npcname_EN.	<Aikage> the shinobi mask
 numflavor_passiveJP.	0
 numflavor_passiveEN.	0
 numflavor_angeredJP.	3

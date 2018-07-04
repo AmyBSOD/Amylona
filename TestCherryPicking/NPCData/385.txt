@@ -12,7 +12,7 @@ flavorangered_EN.0	"Destruction is beautiful..."
 flavorangered_EN.1	"Make sure to entertain me..."
 numflavor_deathJP.	1
 numflavor_deathEN.	1
-flavordeath_JP.0	「形あるものはいつか必ず壊れるのだ 」
+flavordeath_JP.0	「形あるものはいつか必ず壊れるのだ」
 flavordeath_EN.0	"Everything must be broken someday..."
 numflavor_killJP.	2
 numflavor_killEN.	2

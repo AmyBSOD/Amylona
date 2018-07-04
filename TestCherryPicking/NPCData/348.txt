@@ -6,7 +6,7 @@ flavorpassive_JP.0	「今なら無料でジュア様の抱き枕が手に入るよ～」
 flavorpassive_JP.1	「見てらっしゃい、よってらっしゃい」
 flavorpassive_JP.2	「そこの君、清楚で綺麗なお姉さんが君を待ってるよ」
 flavorpassive_JP.3	「この荒れすさんだ世に咲く一輪の花、気高く汚れを知らぬ純白の乙女、その名も癒しのジュア！」
-flavorpassive_EN.0	"St.Jure's body pillow for FREE!"
+flavorpassive_EN.0	"St. Jure's body pillow for FREE!"
 flavorpassive_EN.1	"Step right up!"
 flavorpassive_EN.2	"You there lucky one, a beautiful and sweet woman awaits for you!"
 flavorpassive_EN.3	"A flower growing in the desert, fragile yet most noble. A maiden pure in heart with compassion and indomitable will to vanquish evil. Jure of Healing, our only Goddess!"

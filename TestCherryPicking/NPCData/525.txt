@@ -11,5 +11,6 @@ numflavor_killJP.	1
 numflavor_killEN.	0
 flavorkill_JP.0	「ほひひ」
 numflavor_welcomeJP.	1
-numflavor_welcomeEN.	0
+numflavor_welcomeEN.	1
 flavorwelcome_JP.0	「おかえりなさいませ」
+flavorwelcome_EN.0	"Welcome back"

@@ -16,7 +16,7 @@ flavorangered_JP.0	「償いなさい」
 flavorangered_JP.1	「あなたには罰が必要なようですね」
 flavorangered_JP.2	「てめー♪」
 flavorangered_JP.3	「くそがーっ」
-flavorangered_EN.0	"Atone for you sin."
+flavorangered_EN.0	"Atone for your sins."
 flavorangered_EN.1	"Well, you need to be punished."
 flavorangered_EN.2	"You sonova..."
 flavorangered_EN.3	"Shit!"
