@@ -1,3 +1,8 @@
+The dates given use the German format of day.month.year because that's the only correct format :P
+
+4.7.2018
+- Certain skills and spells are no longer impossible to train when used on a monster that can split. Here's another big "fook yoo" to the morons who thought it was a good idea to make all those 200 scythe/bow hits wasted when fighting a spritzit pawn. I'm spending a lot of time killing those and I don't "pudding farm" them, so I demand to be given my well-earned experience points dammit!
+
 Ninth commit:
 - Certain skills and spells are no longer impossible to train when there's a summoned monster nearby. Here's a big "fook yoo" to whoever thought it was a good idea to make healing rain not train if among the 12 monsters in the radius there's a single one that got summoned. I spent valuable spell stocks to cast that spell so GIVE ME MY DAMN SPELL SKILL TRAINING BITCHES.
 - Recharging an item has an additional chance of the recharged item exploding. It was far too easy to amass a ton of Dominate spell stock!
