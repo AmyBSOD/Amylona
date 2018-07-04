@@ -1,13 +1,16 @@
 npcname_JP.	猫嫌いの『タム』
 npcname_EN.	<Tam> the cat hater
 numflavor_passiveJP.	3
-numflavor_passiveEN.	3
+numflavor_passiveEN.	6
 flavorpassive_JP.0	「ひっ！」
 flavorpassive_JP.1	「猫はどうしてあんなに恐ろしいのだろう」
 flavorpassive_JP.2	「細い目が苦手です」
-flavorpassive_EN.0	" hate those bloody cats!"
-flavorpassive_EN.1	"Come closer kitty, I gotta present for ya!"
-flavorpassive_EN.2	"I've got your number, mate. It's down to two for you. Ahh! There's a oner. Ha ha, yes. Not long for you now!"
+flavorpassive_EN.0	"I've got your number, mate. It's down to two for you. Ahh! There's a oner. Ha ha, yes. Not long for you now!"
+flavorpassive_EN.1	"W-Why are cats so scary?"
+flavorpassive_EN.2	"I hate those narrow eyes."
+flavorpassive_EN.3	" hate those bloody cats!"
+flavorpassive_EN.4	"Come closer kitty, I gotta present for ya!"
+flavorpassive_EN.5	"Cats... why are they so ugly?"
 numflavor_angeredJP.	0
 numflavor_angeredEN.	0
 numflavor_deathJP.	1

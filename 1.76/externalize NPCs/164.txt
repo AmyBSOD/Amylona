@@ -1,5 +1,5 @@
-npcname_JP.	シルバーキャット
-npcname_EN.	silver cat
+npcname_JP.	猫
+npcname_EN.	cat
 numflavor_passiveJP.	5
 numflavor_passiveEN.	5
 flavorpassive_JP.0	「ミャア」
@@ -10,7 +10,7 @@ flavorpassive_JP.4	「ニャア」
 flavorpassive_EN.0	"Meow."
 flavorpassive_EN.1	"Mew."
 flavorpassive_EN.2	"Mew mew."
-flavorpassive_EN.3	"Mew!"
+flavorpassive_EN.3	"Rowr!"
 flavorpassive_EN.4	"Mewl."
 numflavor_angeredJP.	4
 numflavor_angeredEN.	4
