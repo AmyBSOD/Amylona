@@ -1,6 +1,8 @@
 The dates given use the German format of day.month.year because that's the only correct format :P
 
 4.7.2018
+- Made the inane combo system do nothing. If the enemy is such a wimp and allows you to hit him 200 times before he gets another turn, it's his own fault and he shall not get arbitrary damage reduction!
+
 - Recharging an item really has an additional chance of the recharged item exploding.
 - Certain skills and spells are no longer impossible to train when used on a monster that can split. Here's another big "fook yoo" to the morons who thought it was a good idea to make all those 200 scythe/bow hits wasted when fighting a spritzit pawn. I'm spending a lot of time killing those and I don't "pudding farm" them, so I demand to be given my well-earned experience points dammit!
 
