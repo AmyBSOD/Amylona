@@ -1,0 +1,15 @@
+npcname_JP.	白衣のナース
+npcname_EN.	nurse
+numflavor_passiveJP.	0
+numflavor_passiveEN.	0
+numflavor_angeredJP.	1
+numflavor_angeredEN.	0
+flavorangered_JP.0	ナースの匂いがする…
+numflavor_deathJP.	1
+numflavor_deathEN.	0
+flavordeath_JP.0	「キャァー」
+numflavor_killJP.	0
+numflavor_killEN.	0
+numflavor_welcomeJP.	1
+numflavor_welcomeEN.	0
+flavorwelcome_JP.0	「おかえりなさい。怪我はしていませんか♪」

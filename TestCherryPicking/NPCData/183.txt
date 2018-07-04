@@ -1,0 +1,23 @@
+npcname_JP.	大富豪
+npcname_EN.	rich person
+numflavor_passiveJP.	0
+numflavor_passiveEN.	0
+numflavor_angeredJP.	4
+numflavor_angeredEN.	0
+flavorangered_JP.0	「金か？金が欲しいのか？」
+flavorangered_JP.1	「汚い手で触らないでくれるか」
+flavorangered_JP.2	「周りの衆、見てないで助けぬか」
+flavorangered_JP.3	「金の亡者め！」
+numflavor_deathJP.	5
+numflavor_deathEN.	0
+flavordeath_JP.0	「貴様には一銭もやらん…」
+flavordeath_JP.1	「なんとまあ」
+flavordeath_JP.2	「下衆め」
+flavordeath_JP.3	「まだ死にたくないー…ぐぉ」
+flavordeath_JP.4	「遺言書いといてよかったわ」
+numflavor_killJP.	1
+numflavor_killEN.	0
+flavorkill_JP.0	「フン」
+numflavor_welcomeJP.	1
+numflavor_welcomeEN.	0
+flavorwelcome_JP.0	「帰ってきおったか」

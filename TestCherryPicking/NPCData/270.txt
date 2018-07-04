@@ -1,0 +1,17 @@
+npcname_JP.	修道女
+npcname_EN.	sister
+numflavor_passiveJP.	0
+numflavor_passiveEN.	0
+numflavor_angeredJP.	2
+numflavor_angeredEN.	0
+flavorangered_JP.0	「おやめなさい」
+flavorangered_JP.1	「暴力はダメです」
+numflavor_deathJP.	3
+numflavor_deathEN.	0
+flavordeath_JP.0	「なんという悪」
+flavordeath_JP.1	「大罪です…」
+flavordeath_JP.2	「ふにゃー」
+numflavor_killJP.	0
+numflavor_killEN.	0
+numflavor_welcomeJP.	0
+numflavor_welcomeEN.	0

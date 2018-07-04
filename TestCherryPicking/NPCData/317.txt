@@ -1,0 +1,23 @@
+npcname_JP.	銀眼の斬殺者
+npcname_EN.	silver eyed witch
+numflavor_passiveJP.	2
+numflavor_passiveEN.	2
+flavorpassive_JP.0	「何故私に興味を持つ？怖くは無いのか？」 
+flavorpassive_JP.1	「やれやれ。ペットを持った気分だ」
+flavorpassive_EN.0	"What do I have to fear? You aren't an Abyssal One."
+flavorpassive_EN.1	"Good grief, is someone trying to cop a feel?" 
+numflavor_angeredJP.	2
+numflavor_angeredEN.	0
+flavorangered_JP.0	「オマエ…私と同じ目をしているな」
+flavorangered_JP.1	「ついてこれるか？」
+numflavor_deathJP.	2
+numflavor_deathEN.	0
+flavordeath_JP.0	「ふっ。人のまま死ねて嬉しいよ」
+flavordeath_JP.1	「どうせすぐ忘れられる名だ」 
+numflavor_killJP.	3
+numflavor_killEN.	0
+flavorkill_JP.0	「オマエ弱いな。ナンバーはいくつだ？」
+flavorkill_JP.1	「優秀だが長く生きすぎたな」
+flavorkill_JP.2	「金は要らん。後から取りに来る者がいるから金はその時に渡せばいい」
+numflavor_welcomeJP.	0
+numflavor_welcomeEN.	0

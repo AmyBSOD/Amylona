@@ -1,0 +1,22 @@
+npcname_JP.	黒猫
+npcname_EN.	black cat
+numflavor_passiveJP.	4
+numflavor_passiveEN.	0
+flavorpassive_JP.0	「うみみゃ」
+flavorpassive_JP.1	「みゅー」
+flavorpassive_JP.2	「みゃ」
+flavorpassive_JP.3	 *ごろごろ* 
+numflavor_angeredJP.	3
+numflavor_angeredEN.	0
+flavorangered_JP.0	「フシューッ」
+flavorangered_JP.1	「うみみゃ！」
+flavorangered_JP.2	「みゃ！」
+numflavor_deathJP.	1
+numflavor_deathEN.	0
+flavordeath_JP.0	「うみ…みゃ…」
+numflavor_killJP.	1
+numflavor_killEN.	0
+flavorkill_JP.0	黒猫は尻尾をふった。
+numflavor_welcomeJP.	1
+numflavor_welcomeEN.	0
+flavorwelcome_JP.0	「おかえりみゃー」

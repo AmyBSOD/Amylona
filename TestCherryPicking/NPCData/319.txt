@@ -1,0 +1,21 @@
+npcname_JP.	『リトルシスター』
+npcname_EN.	<Little sister>
+numflavor_passiveJP.	3
+numflavor_passiveEN.	3
+flavorpassive_JP.0	「Mr Bubbles、動いて…おねがい！」
+flavorpassive_JP.1	「来ないで！触わらないで！」
+flavorpassive_JP.2	「天使…天使に出会うまで、まだ死にたくないの…」
+flavorpassive_EN.0	"Mr. Bubbles, please stand up... Please!"
+flavorpassive_EN.1	You hear the sound of a frightened little girl somewhere
+flavorpassive_EN.2	"Angel, angel, until we find the right one we don't dare die..."
+numflavor_angeredJP.	1
+numflavor_angeredEN.	0
+flavorangered_JP.0	「い、いや…！こないで！やだ…助けて…お願い…」
+numflavor_deathJP.	1
+numflavor_deathEN.	0
+flavordeath_JP.0	「死…死にたくない…いやあぁ…ぁ」
+numflavor_killJP.	1
+numflavor_killEN.	0
+flavorkill_JP.0	「天使の血でお腹を満たすの」
+numflavor_welcomeJP.	0
+numflavor_welcomeEN.	0

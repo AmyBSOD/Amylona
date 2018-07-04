@@ -1,0 +1,20 @@
+npcname_JP.	掃除屋『バルザック』
+npcname_EN.	<Balzak> the janiator
+numflavor_passiveJP.	3
+numflavor_passiveEN.	3
+flavorpassive_JP.0	「街の衛生は俺が守る！」
+flavorpassive_JP.1	「街道にゴミを捨てる奴はゆるさねえ」
+flavorpassive_JP.2	「俺はゴミの天敵だ」
+flavorpassive_EN.0	"This citie's health is my charge!"
+flavorpassive_EN.1	"Those who DARE litter before me shall face my broom!"
+flavorpassive_EN.2	"I am garbage's worst nightmare."
+numflavor_angeredJP.	0
+numflavor_angeredEN.	0
+numflavor_deathJP.	1
+numflavor_deathEN.	0
+flavordeath_JP.0	「俺はゴミじゃない！」
+numflavor_killJP.	1
+numflavor_killEN.	0
+flavorkill_JP.0	「掃除完了」
+numflavor_welcomeJP.	0
+numflavor_welcomeEN.	0

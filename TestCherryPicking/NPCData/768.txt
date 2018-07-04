@@ -1,0 +1,19 @@
+npcname_JP.	バリスタリオン
+npcname_EN.	ballistallion
+numflavor_passiveJP.	3
+numflavor_passiveEN.	1
+flavorpassive_JP.0	 *ぱかぱか* 
+flavorpassive_JP.1	 *ぱからっぱからっ*
+flavorpassive_JP.2	 *パコパコ*
+flavorpassive_EN.0	You hear hoofbeats. You hope it's not zebras
+numflavor_angeredJP.	0
+numflavor_angeredEN.	0
+numflavor_deathJP.	1
+numflavor_deathEN.	0
+flavordeath_JP.0	「ひ…ひん…」
+numflavor_killJP.	1
+numflavor_killEN.	0
+flavorkill_JP.0	「ヒヒーン！」
+numflavor_welcomeJP.	1
+numflavor_welcomeEN.	0
+flavorwelcome_JP.0	「おかえりヒヒーン！」
