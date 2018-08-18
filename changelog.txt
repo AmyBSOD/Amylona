@@ -1,5 +1,12 @@
 The dates given use the German format of day.month.year because that's the only correct format :P
 
+18.8.2018
+- Death Word and certain other "you die now" effects do 9999999 instead of 9999 damage to ensure that the target really dies.
+- Houses, storages etc. can hold more items.
+- Harvest Time quests in particular, but also Challenge and Panic, can spawn higher-level monsters and are harder.
+- Increased the 240 limit for the # of custom NPCs to 10000, I hope this won't break things.
+- Bashing a monster that goes "click" to explode will remove its "I will explode at the next opportunity" flag. This allows bomb rocks and similar stuff to be used as pets without them constantly blowing up.
+
 4.7.2018
 - Made the inane combo system do nothing. If the enemy is such a wimp and allows you to hit him 200 times before he gets another turn, it's his own fault and he shall not get arbitrary damage reduction!
 
