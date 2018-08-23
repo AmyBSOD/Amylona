@@ -2,6 +2,7 @@ The dates given use the German format of day.month.year because that's the only 
 
 23.8.2018
 - Summoned monsters now get the summoned flag even if they're neutral, because seriously, farming is so lame. You'd even be able to farm AP by getting a sufficiently high summon monster spell to pull dragon centipedes and whatever the heck that bat's name was...
+- More monsters can give resistances when eaten: <Ebon> the fire giant, suzaku, lava golem and araonibi grant fire resistance. xeren electric tank and electric hippopotamus grant lightning resistance. <Chaos Unicorn> King of Chaos grants chaos resistance. hel and blizzard lizard grant cold resistance. meida grants sound resistance. oyaukamui grants nether resistance. darknesslug grants darkness resistance. gigantic fairy grants magic resistance.
 
 18.8.2018
 - Death Word and certain other "you die now" effects do 9999999 instead of 9999 damage to ensure that the target really dies.
