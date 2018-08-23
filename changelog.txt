@@ -1,5 +1,8 @@
 The dates given use the German format of day.month.year because that's the only correct format :P
 
+23.8.2018
+- Summoned monsters now get the summoned flag even if they're neutral, because seriously, farming is so lame. You'd even be able to farm AP by getting a sufficiently high summon monster spell to pull dragon centipedes and whatever the heck that bat's name was...
+
 18.8.2018
 - Death Word and certain other "you die now" effects do 9999999 instead of 9999 damage to ensure that the target really dies.
 - Houses, storages etc. can hold more items.
