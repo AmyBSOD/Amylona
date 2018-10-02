@@ -1,5 +1,11 @@
 The dates given use the German format of day.month.year because that's the only correct format :P
 
+2.10.2018
+- Lock Break now displays meaningful messages.
+- Having more than 2 melee attacks will no longer trash those extra attacks beyond belief for no apparent reason.
+- Death Word takes longer to kill a chara quality up pet (due to a bug, it would kill the pet more quickly than without the quality up!).
+- Chaos forts no longer give their absolutely boring-as-hell difficulty rating and were reverted to the much better 666 and 999 displays.
+
 23.8.2018
 - Summoned monsters now get the summoned flag even if they're neutral, because seriously, farming is so lame. You'd even be able to farm AP by getting a sufficiently high summon monster spell to pull dragon centipedes and whatever the heck that bat's name was...
 - More monsters can give resistances when eaten: <Ebon> the fire giant, suzaku, lava golem and araonibi grant fire resistance. xeren electric tank and electric hippopotamus grant lightning resistance. <Chaos Unicorn> King of Chaos grants chaos resistance. hel and blizzard lizard grant cold resistance. meida grants sound resistance. oyaukamui grants nether resistance. darknesslug grants darkness resistance. gigantic fairy grants magic resistance.
