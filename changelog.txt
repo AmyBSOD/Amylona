@@ -1,6 +1,7 @@
 The dates given use the German format of day.month.year because that's the only correct format :P
 
 2.10.2018
+- The change that made it so that town identify services have little baby prices (i.e. they became so cheap that I couldn't help but feel that the main player base the devs want to cater to is little babies) should now be reverted.
 - Lock Break now displays meaningful messages.
 - Having more than 2 melee attacks will no longer trash those extra attacks beyond belief for no apparent reason.
 - Death Word takes longer to kill a chara quality up pet (due to a bug, it would kill the pet more quickly than without the quality up!).
