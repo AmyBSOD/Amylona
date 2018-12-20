@@ -1,5 +1,11 @@
 The dates given use the German format of day.month.year because that's the only correct format :P
 
+20.12.2018
+- More special actions and spells can be learned by pets now because some of the banned ones were really arbitrary. Over Long Throw not allowed for pets? WTF???
+- Since I can't correctly fix Blade Strings (by making it so that you can never get disarm trap experience), I made it consistent so that you always get disarm trap experience. It would be up to the Elona devs to fix that, but I'm not hopeful...
+- Smash Ground now does random damage, but the maximum damage it can do was not reduced, unlike the "official" new versions.
+- Wiped the anti-fun feature where custom NPCs would get god recruitment penalties when their stat INIs were higher than some arbitrary value. Like what the actual fuck was that for, really. You don't get penalties when dominating a grass killer, so why the hell do you give me one when dominating a madling. Gotta fix that shit.
+
 2.10.2018
 - The change that made it so that town identify services have little baby prices (i.e. they became so cheap that I couldn't help but feel that the main player base the devs want to cater to is little babies) should now be reverted.
 - Lock Break now displays meaningful messages.
