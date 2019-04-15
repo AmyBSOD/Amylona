@@ -1,5 +1,14 @@
 The dates given use the German format of day.month.year because that's the only correct format :P
 
+15.4.2019
+- Custom NPCs scale correctly in the Void now. They still don't work correctly with panic/challenge quests etc. because the devs are lazy fucks that don't care about broken code and I, the only person in the world who does care, don't know how to fix it :P
+- If the player casts a spell, they can now spray the powder/vibrate/etc. depending on their casting style, just like monsters can.
+- More item affixes: resist acid/ether/etc. (not sure whether they actually do something), + to luck/life/mana, made certain very rare item attributes more common etc.
+- Using code from ICannotNameAnything, backported the ability to interact with your steed and a bugfix because the E+ devs can't fix their shit :P
+- Sentient weapons no longer have only one random attribute on generation. Instead, they can get a full suite just like other miracle-quality items.
+- Being hit by salt while playing a snail will force a --More-- now. Fuck you whoever thought it was a good idea to not have that confirmation :P
+- The damage done by shining wave is less insane.
+
 20.12.2018
 - More special actions and spells can be learned by pets now because some of the banned ones were really arbitrary. Over Long Throw not allowed for pets? WTF???
 - Since I can't correctly fix Blade Strings (by making it so that you can never get disarm trap experience), I made it consistent so that you always get disarm trap experience. It would be up to the Elona devs to fix that, but I'm not hopeful...
