@@ -1,5 +1,26 @@
 The dates given use the German format of day.month.year because that's the only correct format :P
 
+16.8.2020
+- Added a bunch of new recipes for the four crafting skills that the player can use. Be sure to check in-game for new items that the carpentry tool, sewing kit, alchemy set and gem cutter can manufacture. Some of these items require a rather high skill level.
+- The directive technique can now be used on unseen pets by default because it's such a HUUUUUUUUUUUUUGE pain in the ass if you can't, and having to wait until you can kill a certain uberboss NPC in act 3 before you finally gain the ability to use directive properly just plain sucks.
+- Many skills that used to simply train waaaaaay too slowly will train faster now, and the player no longer gets a nonsensical penalty for stat gains from eating food (it used to be that the player only gained one fifth the amount that a pet got!).
+- Monsters that split can now give AP when killed, because the split clones don't give AP anyway and so this cannot be used for lame farming exploits, and if the monster's speed INI exactly matches the party member's speed INI, it can also give AP now (it used to be that the monster's value had to be higher, now it's higher-or-equal). This means that gaining AP is slightly easier now.
+- The mutation spell can now be taught to pets.
+- Many spells whose effects scale with spell level will scale better now.
+- Thanks to code from Elonapluscustom-G, a lot of untranslated dialogue is translated now.
+- Throwing weapons can now be used in combination with ammo too. No longer does the player have to leave the ammo slot free! All types of ammo (arrows, bolts, firearm ammo) work with throwing weapons.
+- Magnum ammo can now be used with all guns. It made no sense that it only worked for one particularly crappy type of firearm that no one uses.
+- Many magical affixes can appear on more types of equipment now, and the strength of random-strength enchantments can occasionally be much higher. This is done to ensure that miracle and ubergodly equipment actually remains interesting to check out because occasionally these items can roll really cool modifiers now. Potentially ones that make them stronger than fixed artifacts, even.
+- Pets can carry furniture and junk now because who the hell had the bright idea that pets could just say "no i wont carry that"? It's soooooo stupid! Of course they can carry such items!
+- Since pokeballing custom NPCs has never worked properly and due to someone not giving me the actual source code, it no longer works at all now, so the glitchiness has been "sealed away" so to speak. Sadly, using the astral light pen on unique custom NPCs is still ultra bugged.
+- Pets with crafting skills craft furniture instead of equipment now. Player crafting has already been changed to no longer produce equipment, so for the sake of consistency and also because at some point they only ever make lame fairy hats and stupid plate mails anyway, pets no longer do either.
+
+15.5.2020
+- The rod of domination can now be recharged because after all the spellbook can too.
+- Certain unique items that used to not generate randomly, e.g. the Mani pistol, hero cheese or the license of the void explorer, can occasionally spawn randomly now, including in the inventory of adventurer NPCs.
+- Restored the previously broken level scaling for custom NPCs.
+- Of course you can save during the Enthumesis/Orphe-"chaos child lol level 3500 lol" fight. Who is the devil that decided to make it a "feature" that in a game where you can ALWAYS suspend save at your leisure, you suddenly can't???
+
 15.4.2019
 - Custom NPCs scale correctly in the Void now. They still don't work correctly with panic/challenge quests etc. because the devs are lazy fucks that don't care about broken code and I, the only person in the world who does care, don't know how to fix it :P
 - If the player casts a spell, they can now spray the powder/vibrate/etc. depending on their casting style, just like monsters can.
